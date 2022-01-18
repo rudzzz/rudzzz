@@ -4,7 +4,7 @@
 - 💻 Sou Desenvolvedor Front-End
 - 👨‍💻 Apaixonado por Tecnologia
 - 👨‍🏫 Buscando sempre aprender coisas novas
-- 💼 Conheça um pouco do meu trabalho!
+
 ##
 
 <div align="center">
