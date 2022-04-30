@@ -1,5 +1,4 @@
-- ### Opa, Bão? Me chamo Acir Rudson Souza!
--  Bem vindo ao meu perfil GitHub 🤓
+- ### Bem vindo ao meu perfil GitHub 🤓
 
 - 💻 Sou Desenvolvedor Front-End
 - 👨‍💻 Apaixonado por Tecnologia
