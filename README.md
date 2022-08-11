@@ -1,6 +1,6 @@
-- ### Bem vindo ao meu perfil GitHub 🤓
+- ### Olá, Bem vindo ao meu perfil GitHub 🤓
 
-- 💻 Sou Desenvolvedor Front-End
+- 💻 Sou Desenvolvedor FullStack 
 - 👨‍💻 Apaixonado por Tecnologia
 - 👨‍🏫 Buscando sempre aprender coisas novas
 
