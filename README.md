@@ -23,14 +23,7 @@
 </div>
   
   ##
-
-### Estou estudando no momento:
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Acir-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Acir-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  </div>
-
-  
+ 
 ##
 ### Informações de Contato
 <div>
