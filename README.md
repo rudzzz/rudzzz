@@ -1,6 +1,6 @@
 - ### Olá, Bem vindo ao meu perfil GitHub 🤓
 
-- 💻 Sou Desenvolvedor Java!
+- 💻 Sou Desenvolvedor Backend, especializado em Java!
 - 👨‍💻 Apaixonado por Tecnologia
 - 👨‍🏫 Buscando sempre aprender coisas novas
 
