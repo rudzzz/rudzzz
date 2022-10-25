@@ -4,7 +4,15 @@
 - 👨‍💻 Apaixonado por Tecnologia
 - 👨‍🏫 Buscando sempre aprender coisas novas
 
-##
+
+<div align="center" width="200">
+  
+  <img src="https://user-images.githubusercontent.com/97038663/197902700-a9c155d8-87f6-4733-a8e0-036bfb779b4c.gif" width="700" height="400"/>
+
+  
+</div>
+
+
 
 <div align="center">
   <a href="https://github.com/rudzzz">
