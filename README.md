@@ -4,16 +4,6 @@
 - 👨‍💻 Apaixonado por Tecnologia
 - 👨‍🏫 Buscando sempre aprender coisas novas
 
-
-<div align="center" width="200">
-  
-  <img src="https://user-images.githubusercontent.com/97038663/197902700-a9c155d8-87f6-4733-a8e0-036bfb779b4c.gif" width="700" height="400"/>
-
-  
-</div>
-
-
-
 <div align="center">
   <a href="https://github.com/rudzzz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudzzz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -22,15 +12,17 @@
   
  ### Ferramentas e Tecnologias que mais utilizo:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Acir-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img width= 40 height=40 float:left  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width= 40 height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width= 40 height=40/>
 </div>
 
 ##
 
 ### Estou estudando no momento:
   <div style="display: inline_block"><br>
-    <img align="center" alt="Acir-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Acir-SPRING" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"">
+    <img width= 40 height=40 float:left  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width= 40 height=40 />
   </div>
  
 ##
