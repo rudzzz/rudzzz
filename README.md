@@ -14,7 +14,6 @@
 <div style="display: inline_block"><br>
   <img width= 40 height=40 float:left  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width= 40 height=40 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width= 40 height=40/>
 </div>
 
 ##
