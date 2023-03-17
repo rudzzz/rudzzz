@@ -1,6 +1,6 @@
 - ### Hi! Welcome to my GitHub profile! 🤓
 
-- 💻 I'm a Junior Software Engineer!
+- 💻 I'm a Junior Software Developer!
 
 <div align="center">
   <a href="https://github.com/rudzzz">
