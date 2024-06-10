@@ -29,17 +29,20 @@
   <div style="display: inline_block"><br>
     <img width= 40 height=40 float:left src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width= 40 height=40 />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width= 40 height=40 />
+    <img float:left src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width= 40 height=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" width= 40 height=40 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width= 40 height=40 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width= 40 height=40 />
+  </div>
+</div></br>
+
+  - Databases:
+  
+  <div style="display: inline_block">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width= 40 height=40 />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width= 40 height=40 />
   </div>
 </div>
-
-##
-
-### I'm currently studying
-  <div style="display: inline_block"><br>
-    <img width= 40 height=40 float:left src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width= 40 height=40 />
-  </div>
  
 ##
 ### Contact me
