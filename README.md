@@ -31,8 +31,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width= 40 height=40 />
     <img float:left src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width= 40 height=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" width= 40 height=40 />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width= 40 height=40 />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width= 40 height=40 />
   </div>
 </div></br>
 
