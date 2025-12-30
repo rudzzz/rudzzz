@@ -1,7 +1,7 @@
 # Hello there! Welcome to my GitHub profile! 👋
 
 ## About Me
-- 💻 Mid-level software developer with 4+ years of experience, mainly focused on backend development with Laravel  
+- 💻 Mid-level software developer with 5+ years of experience, mainly focused on backend development with Laravel  
 - 🌍 Worked on international projects, collaborating with teams across different time zones  
 - 🛠 Enjoy building scalable and maintainable solutions that solve real problems
 
